@@ -1,4 +1,4 @@
-# Data---Analysis.
+# Chocolate--Sales--Analysis.
 This Repository contains work related to Analysis and Visualization of Data.
 
 # 🍫 Chocolate Sales Data Analysis Project
