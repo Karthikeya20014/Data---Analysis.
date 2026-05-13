@@ -29,3 +29,23 @@ This project analyzes chocolate sales data to extract insights on revenue, trend
 - `Chocolate_Project.xlsx` → Dashboard
 - `Chocolate_Sales_Analysis.sql` → Queries
 - `Chocolate_Sales_Overview.docx` → Report
+
+  
+
+
+## ☕ Coffee Sales Data Analysis Project
+
+### Overview
+This project analyzes coffee sales data from a coffee shop 
+across March to July 2024 to extract insights on revenue 
+trends, peak hours, weekdays, and coffee type performance.
+
+### Tools Used
+- MySQL
+- Microsoft Excel
+
+### Files
+- dashboards/Coffee_Original.xlsx
+- reports/Coffee.docx
+- sql/Coffee_Descriptive_Analysis.sql
+- sql/Coffee_Diagnostic_Analysis.sql
