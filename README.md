@@ -20,10 +20,6 @@ This project analyzes chocolate sales data to extract insights on revenue, trend
 - Excel
 - SQL
 
-## 📈 Key Insights
-- Highest revenue product: Latte
-- Peak sales time: Night
-- Best performing month: March
 
 ## 📎 Files
 - `Chocolate_Project.xlsx` → Dashboard
@@ -40,11 +36,22 @@ This project analyzes coffee sales data from a coffee shop
 across March to July 2024 to extract insights on revenue 
 trends, peak hours, weekdays, and coffee type performance.
 
-### Tools Used
+## 📊 Objectives
+- Identify highest revenue generating coffees.
+- Analyze sales by time, day, and month
+- Build KPI dashboard
+
+- ## 📁 Project Structure
+- dashboards/ → Excel dashboard
+- sql/ → SQL queries
+- reports/ → Final report
+
+## 🛠 Tools Used
 - MySQL
 - Microsoft Excel
 
-### Files
+  
+## 📎 Files
 - dashboards/Coffee_Original.xlsx
 - reports/Coffee.docx
 - sql/Coffee_Descriptive_Analysis.sql
